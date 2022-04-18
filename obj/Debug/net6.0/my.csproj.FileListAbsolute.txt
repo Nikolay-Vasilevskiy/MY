@@ -1,0 +1,15 @@
+C:\Users\caps1\OneDrive\Рабочий стол\my\bin\Debug\net6.0\my.exe
+C:\Users\caps1\OneDrive\Рабочий стол\my\bin\Debug\net6.0\my.deps.json
+C:\Users\caps1\OneDrive\Рабочий стол\my\bin\Debug\net6.0\my.runtimeconfig.json
+C:\Users\caps1\OneDrive\Рабочий стол\my\bin\Debug\net6.0\my.dll
+C:\Users\caps1\OneDrive\Рабочий стол\my\bin\Debug\net6.0\my.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\my\obj\Debug\net6.0\my.csproj.AssemblyReference.cache
+C:\Users\caps1\OneDrive\Рабочий стол\my\obj\Debug\net6.0\my.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caps1\OneDrive\Рабочий стол\my\obj\Debug\net6.0\my.AssemblyInfoInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\my\obj\Debug\net6.0\my.AssemblyInfo.cs
+C:\Users\caps1\OneDrive\Рабочий стол\my\obj\Debug\net6.0\my.csproj.CoreCompileInputs.cache
+C:\Users\caps1\OneDrive\Рабочий стол\my\obj\Debug\net6.0\my.dll
+C:\Users\caps1\OneDrive\Рабочий стол\my\obj\Debug\net6.0\refint\my.dll
+C:\Users\caps1\OneDrive\Рабочий стол\my\obj\Debug\net6.0\my.pdb
+C:\Users\caps1\OneDrive\Рабочий стол\my\obj\Debug\net6.0\my.genruntimeconfig.cache
+C:\Users\caps1\OneDrive\Рабочий стол\my\obj\Debug\net6.0\ref\my.dll
